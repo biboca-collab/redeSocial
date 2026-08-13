@@ -157,11 +157,11 @@ color: #ffffff;
 }
 
 .likes {
-color: #4b5563;
+color: #e0e1e4;
 }
 
 .likes strong {
-color: #1c1e21;
+color: #f7f7f7;
 }
 
 /* Barra de Navegação Inferior */
@@ -175,7 +175,7 @@ background: #000000;
 }
 
 .nav-item {
-color: #000000;
+color: #f1eded;
 cursor: pointer;
 }
 
